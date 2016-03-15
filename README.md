@@ -1,5 +1,9 @@
 # JavaTranslator
+
+
 Java Translator Program that translates from E to C.
+
+
 Includes:
   #Main class that drives the entire program
   e2c.java
