@@ -1,3 +1,6 @@
+/* *** Code written by Brian Oh *** */
+/* *** Parser implementation of the translator that parses the tokens from the given E file *** */
+
 public class Parser {
 	
     // tok is global to all these parsing methods;
