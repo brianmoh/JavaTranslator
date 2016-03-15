@@ -11,16 +11,16 @@ Includes:
 
   * e2c.java
   
-  0. Token classes that handles interpretation of different tokens.
+  1. Token classes that handles interpretation of different tokens.
   
   * Token.java
   
   * TK.java
   
-  0. Scanner class that handles scanning tokens and retrieving 
+  2. Scanner class that handles scanning tokens and retrieving 
   
   * Scan.java
 
-  0. Parser class that handles parsing of tokens and translation
+  3. Parser class that handles parsing of tokens and translation
 
   * Parser.java
